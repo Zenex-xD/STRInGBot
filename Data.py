@@ -6,7 +6,7 @@ class Data:
     START = """
 Hey {}
 🥀𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ {} 𝐁ot..! ᴀ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ.
-[𝐗ᴅ](https://telegra.ph/file/cdc4b7391754d321318a2.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
+[𝐗ᴅ](https://telegra.ph/file/55746a707820bf3e8945d.jpg) ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴʀᴀᴛᴇ sᴛʀɪɴɢ ғᴏʀ ɢᴇɴᴇʀᴀᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ..!✨
 
 ♤ 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ: [𝐗ᴅ](https://t.me/About_Zenex)
     """
@@ -53,5 +53,5 @@ Hey {}
 
 𝐋ᴀɴɢᴜᴀɢᴇ : [Python](www.python.org)
 
-𝐃ᴇᴠʟᴏᴘᴇʀ 𝐗ᴅ : [𝐙ᴇᴜs](http://t.me/ZENEX_XD)
+𝐃ᴇᴠʟᴏᴘᴇʀ 𝐗ᴅ : [𝐙ᴇᴜs](http://t.me/About_Zenex)
     """
