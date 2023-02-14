@@ -1,7 +1,7 @@
 python-dotenv==0.*
-SQLAlchemy==1.4.*
+sqlalchemy==1.4.46
 psycopg2==2.*
 Telethon==1.*
 pyromod==1.5
-TgCrypto==1.*
-pyrogram==1.4.16
+tgcrypto==1.2.5
+pyrogram==2.0.97
